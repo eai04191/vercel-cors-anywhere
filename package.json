@@ -6,7 +6,9 @@
     "license": "MIT",
     "devDependencies": {},
     "dependencies": {
+        "@types/tough-cookie": "^4.0.0",
         "got": "^11.5.2",
+        "tough-cookie": "^4.0.0",
         "vercel": "^19.2.0"
     }
 }
