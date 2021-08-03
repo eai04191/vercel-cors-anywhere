@@ -2,7 +2,7 @@
     "version": 2,
     "headers": [
         {
-            "source": "/api/(.*)",
+            "source": "/api(.*)",
             "headers": [
                 {
                     "key": "cache-control",
